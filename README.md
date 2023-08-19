@@ -2,7 +2,7 @@
 - 👀 I’m interested in Options Trading 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on automated strike selector and bulk order placer
-- 📫 How to reach me ... 9552275679
+- 📫 How to reach me ... darekarravikiran54@gmail.com
 
 <!---
 Ravidarekar/Ravidarekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
